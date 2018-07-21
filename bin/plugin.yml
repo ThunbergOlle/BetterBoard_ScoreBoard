@@ -1,0 +1,5 @@
+name: ScoreBoardTesting
+version: 1.0.0
+author: OlleThunberg
+main: me.ollethunberg.scoreBoard.Main
+description: Testing scoreboard
